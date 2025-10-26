@@ -23,16 +23,6 @@ A beautiful Progressive Web App for tracking daily habits with dark mode, motiva
 - **Icons:** Heroicons, Emojis
 - **Deployment:** GitHub Pages
 
-##  Live Demo
-
-[ Try Habit Tracker Live](https://amnfrz.github.io/Habit-Tracker-pwa)
-
-##  Screenshots
-
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light](screenshots/light-mode.png) | ![Dark](screenshots/dark-mode.png) |
-
 ##  Installation
 
 ```bash
