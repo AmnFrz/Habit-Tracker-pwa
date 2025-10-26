@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Habit Tracker",
+  "name": "Personal Habit Tracker PWA",
+  "description": "Track your daily habits and build streaks",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#7e22ce",
+  "background_color": "#f0f9ff",
+  "orientation": "portrait"
 }
